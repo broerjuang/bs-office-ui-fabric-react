@@ -1,0 +1,16 @@
+{
+  "name": "bs-office-ui-fabric-react",
+  "version": "0.1.0",
+  "sources": {
+    "dir": "src",
+    "subdirs": true
+  },
+  "bs-dependencies": [
+    "reason-react"
+    // add your bs-dependencies here
+  ],
+  "warnings": {
+    "error": "+101"
+  },
+  "refmt": 3
+}
